@@ -1,14 +1,9 @@
-
 package DES;
 
 import java.io.UnsupportedEncodingException;
 import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.List;
-
-/**
- * Created by Muhammad Naufal A on 08/10/2016.
- */
 
 public class DesEncrypter {
     private String key;
